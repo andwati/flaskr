@@ -9,6 +9,8 @@ flask = "*"
 [dev-packages]
 black = "*"
 isort = "*"
+pytest = "*"
+coverage = "*"
 
 [requires]
 python_version = "3.11"
